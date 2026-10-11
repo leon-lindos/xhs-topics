@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "fav_mv41434y9f5j",
+    "url": "https://x.com/test/status/1",
+    "title": "测试收纳 A",
+    "note": "备注",
+    "tags": [
+      "测试",
+      "中文"
+    ],
+    "source": "pool",
+    "added_at": "2026-10-12T00:19:57+08:00",
+    "status": "待做",
+    "updated_at": "2026-10-12T00:19:57+08:00"
+  }
+]
