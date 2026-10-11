@@ -7,11 +7,13 @@
   {
     "id": "tr_900000000000000002",
     "url": "https://x.com/xhs_trash_test/status/900000000000000002",
-    "trashed_at": "2026-10-12T00:19:42+08:00"
+    "trashed_at": "2026-10-12T00:19:42+08:00",
+    "purged": true
   },
   {
     "id": "tr_900000000000000003",
     "url": "https://x.com/xhs_trash_test/status/900000000000000003",
-    "trashed_at": "2026-10-12T00:19:42+08:00"
+    "trashed_at": "2026-10-12T00:19:42+08:00",
+    "purged": true
   }
 ]
